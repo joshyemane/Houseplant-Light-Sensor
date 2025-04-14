@@ -1,8 +1,8 @@
 # Houseplant Light Sensor
 
-This project is for a developing a device to measre the light exposure for houseplants, meterics include current light intensity and a 2-day average.
+This project is for developing a device to measure the light exposure for houseplants, metrics include current light intensity and a 2-day average.
 
-## Parts
+## Parts:
 
 - **Adafruit VEML7700 Ambient Light Sensor**  
 - **ESP32 Development Board**  
