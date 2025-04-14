@@ -9,4 +9,6 @@ This project is for designing a device to measure the light exposure for indoor 
 - **Waveshare 2.9‑inch E‑Paper Display Module**  
 - **SD Card Reader**  
 - **PLA Filament**  
-- **Batteries**  
+- **Batteries**
+- **Printed Circuit Board**
+- **Jumper Wires**
